@@ -4,7 +4,7 @@ This repository summaries the related work and advances on Federated learning fo
 
 ### References
 
-[IN12] [Understanding Federated Learning via Client-Level Influence Measurement.](./incentive/12-Understanding Federated Learning via Client-Level Influence Measurement.pdf)
+[IN12] [Understanding Federated Learning via Client-Level Influence Measurement.](./incentive/12-Understanding_Federated_Learning_via_Client-Level_Influence_Measurement.pdf)
 
 This paper approximates shapley value estimation at in polynomial time. Specifically, it is by their proposed sampling strategy of drawing a representative group of individuals or cases from a particular population. It is also appliable for any semivalue estimation.
 
