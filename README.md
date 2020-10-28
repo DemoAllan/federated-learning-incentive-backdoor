@@ -6,7 +6,7 @@ This repository summaries the related work and advances on Federated learning fo
 
 [IN12] [Understanding Federated Learning via Client-Level Influence Measurement.](./incentive/12-Understanding_Federated_Learning_via_Client-Level_Influence_Measurement.pdf)
 
-This paper approximates shapley value estimation at in polynomial time. Specifically, it is by their proposed sampling strategy of drawing a representative group of individuals or cases from a particular population. It is also appliable for any semivalue estimation.
+This paper proposes Fed-Influence, to measure contribution based on sub-model parameter without retrainig as well as a estimation algorithm. It works well on both convex and non-convex loss functions and does not require the  nal model to be optimal.
 
 <details>
 <summary>cite</summary>
